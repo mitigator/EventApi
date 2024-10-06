@@ -1,0 +1,40 @@
+{
+  "technicalEvents": [
+    {
+      "title": "Hackathon",
+      "name": "ARES TECHWAR",
+      "description": "Has a modern and tech-savvy vibe, linking the idea of a competitive environment (war) with the concept of complex problem-solving (matrix). It captures both the essence of a hackathon and Ares' spirit of conflict.",
+      "imageUrl": "/api/placeholder/400/300"
+    },
+    {
+      "title": "Coding and Debugging",
+      "name": "POSEIDON'S CODE CURRENT",
+      "description": "This name reflects the flow and movement of coding and debugging, evoking Poseidon's control over water currents.",
+      "imageUrl": "/api/placeholder/400/300"
+    },
+    {
+      "title": "IoT",
+      "name": "HEPHAESTUS' FORGE",
+      "description": "Hephaestus, god of fire and craftsmanship, relates well to IoT, where devices are 'forged' and connected in the digital world.",
+      "imageUrl": "/api/placeholder/400/300"
+    },
+    {
+      "title": "Capture the Flag",
+      "name": "HERMES' BYTECHASE",
+      "description": "Hermes, the swift messenger god, fits perfectly with Capture the Flag, where speed and strategy are key.",
+      "imageUrl": "/api/placeholder/400/300"
+    },
+    {
+      "title": "UI/UX",
+      "name": "APHRODITE'S AURORA",
+      "description": "This name emphasizes beauty and design, aligning perfectly with UI/UX while maintaining a connection to Aphrodite.",
+      "imageUrl": "/api/placeholder/400/300"
+    },
+    {
+      "title": "Gaming",
+      "name": "DIONYSUS' BATTLEGROUND",
+      "description": "Effectively conveys the competitive and intense nature of a PUBG gaming event while linking it to Dionysus's theme of revelry and excitement. It sounds both engaging and relevant!",
+      "imageUrl": "/api/placeholder/400/300"
+    }
+  ]
+}
