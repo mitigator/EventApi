@@ -19,6 +19,12 @@
       "imageUrl": "https://example.com/capture-the-flag.jpg"
     },
     {
+      "name": "IT Quiz - Athena's Arena",
+      "description": "A quiz competition testing participants' knowledge in IT and computer science.",
+      "slug": "it-quiz",
+      "imageUrl": "https://example.com/it-quiz.jpg"
+    },
+    {
       "name": "IoT - Hephaestus' Forge",
       "description": "An Internet of Things competition focusing on creating smart solutions for everyday problems.",
       "slug": "iot",
