@@ -1,34 +1,40 @@
 {
   "nonTechnicalEvents": [
     {
-      "title": "Surprise Event",
-      "name": "HERA’S TRAILS",
-      "description": "Hera, being the queen of the gods, can represent authority and unpredictability, symbolizing a challenge that tests various abilities.",
-      "imageUrl": "/api/placeholder/400/300"
+      "name": "Photography - Apollo's Luminous Lens",
+      "description": "A photography event capturing the essence of light and shadow in unique environments.",
+      "slug": "photography",
+      "imageUrl": "https://example.com/photography.jpg"
     },
     {
-      "title": "Photography Event",
-      "name": "APPOLO’S LUMINOUS LENS",
-      "description": "'Luminous' adds a more dynamic and radiant feel, making it stand out while still connecting with Apollo’s association with light and creativity in photography.",
-      "imageUrl": "/api/placeholder/400/300"
+      "name": "Gaming - Dionysus' Battleground",
+      "description": "A gaming tournament featuring popular multiplayer games with fierce competition.",
+      "slug": "gaming",
+      "imageUrl": "https://example.com/gaming.jpg"
     },
     {
-      "title": "Treasure Hunt",
-      "name": "ARTEMIS' ADVENTURE",
-      "description": "This adds an air of intrigue and excitement, enhancing the adventurous theme of the treasure hunt!",
-      "imageUrl": "/api/placeholder/400/300"
+      "name": "Treasure Hunt - Artemis' Adventure",
+      "description": "A treasure hunt event where participants solve clues and challenges to find the hidden treasure.",
+      "slug": "treasure-hunt",
+      "imageUrl": "https://example.com/treasure-hunt.jpg"
     },
     {
-      "title": "IT Manager",
-      "name": "HADES' TECH AUTHORITY",
-      "description": "Emphasizes leadership and management in the IT field, while still connecting to Hades' powerful presence.",
-      "imageUrl": "/api/placeholder/400/300"
+      "name": "IT Manager - Hades' Tech Authority",
+      "description": "An event testing participants' skills in IT management, problem-solving, and decision-making.",
+      "slug": "it-manager",
+      "imageUrl": "https://example.com/it-manager.jpg"
     },
     {
-      "title": "IT Quiz",
-      "name": "ATHENA'S ARENA",
-      "description": "Athena, goddess of wisdom, perfectly fits an arena where knowledge is tested.",
-      "imageUrl": "/api/placeholder/400/300"
+      "name": "IT Quiz - Athena's Arena",
+      "description": "A quiz competition testing participants' knowledge in IT and computer science.",
+      "slug": "it-quiz",
+      "imageUrl": "https://example.com/it-quiz.jpg"
+    },
+    {
+      "name": "Surprise Event - Hera's Trails",
+      "description": "A surprise event where participants face unexpected challenges and tasks.",
+      "slug": "surprise-event",
+      "imageUrl": "https://example.com/surprise-event.jpg"
     }
   ]
 }
