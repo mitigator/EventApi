@@ -1,0 +1,34 @@
+{
+  "nonTechnicalEvents": [
+    {
+      "title": "Surprise Event",
+      "name": "HERA’S TRAILS",
+      "description": "Hera, being the queen of the gods, can represent authority and unpredictability, symbolizing a challenge that tests various abilities.",
+      "imageUrl": "/api/placeholder/400/300"
+    },
+    {
+      "title": "Photography Event",
+      "name": "APPOLO’S LUMINOUS LENS",
+      "description": "'Luminous' adds a more dynamic and radiant feel, making it stand out while still connecting with Apollo’s association with light and creativity in photography.",
+      "imageUrl": "/api/placeholder/400/300"
+    },
+    {
+      "title": "Treasure Hunt",
+      "name": "ARTEMIS' ADVENTURE",
+      "description": "This adds an air of intrigue and excitement, enhancing the adventurous theme of the treasure hunt!",
+      "imageUrl": "/api/placeholder/400/300"
+    },
+    {
+      "title": "IT Manager",
+      "name": "HADES' TECH AUTHORITY",
+      "description": "Emphasizes leadership and management in the IT field, while still connecting to Hades' powerful presence.",
+      "imageUrl": "/api/placeholder/400/300"
+    },
+    {
+      "title": "IT Quiz",
+      "name": "ATHENA'S ARENA",
+      "description": "Athena, goddess of wisdom, perfectly fits an arena where knowledge is tested.",
+      "imageUrl": "/api/placeholder/400/300"
+    }
+  ]
+}
