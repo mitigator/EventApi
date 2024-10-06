@@ -25,12 +25,6 @@
       "imageUrl": "https://example.com/it-manager.jpg"
     },
     {
-      "name": "IT Quiz - Athena's Arena",
-      "description": "A quiz competition testing participants' knowledge in IT and computer science.",
-      "slug": "it-quiz",
-      "imageUrl": "https://example.com/it-quiz.jpg"
-    },
-    {
       "name": "Surprise Event - Hera's Trails",
       "description": "A surprise event where participants face unexpected challenges and tasks.",
       "slug": "surprise-event",
