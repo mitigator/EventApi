@@ -18,7 +18,7 @@
             "Rule 3: Judges' decisions are final and binding.",
             "Rule 4: All participants must arrive 15 minutes prior to the event start time."
         ],
-        "link": "https://www.example.com"
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSczx9M0gt8cfeYA1zrET5GujrhNLA_C_JITmqiH63dJnUtZGg/viewform?usp=sf_link"
     },
     {
         "id": 2,
@@ -78,7 +78,7 @@
             "Rule 2: No outside help is allowed.",
             "Rule 3: Judges' decisions are final."
         ],
-        "link": "https://www.example.com/coding-debugging"
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSfhq9sY9N8-IcaYemJH105k_mSjUJYcdE0wkkN1KsJZPfH_IQ/viewform?usp=sf_link"
     },
     {
         "id": 5,
@@ -137,7 +137,7 @@
             "Rule 1: Teams must consist of 3 members.",
             "Rule 2: Judges' decisions are final."
         ],
-        "link": "https://www.example.com/ui-ux"
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLScT4on9uw7tAJyPuUU4xeOSOiCMqdsuYJWJbzQIc2fDgxEXeg/viewform?usp=sf_link"
     },
     {
         "id": 8,
@@ -156,7 +156,7 @@
             "Rule 1: Teams must consist of 4 members.",
             "Rule 2: Judges' decisions are final."
         ],
-        "link": "https://www.example.com/gaming"
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLScKwm8LEIUAbtwqA6xi--mUjJko_sWSca8TAXdCBlRniNB5Cw/viewform?usp=sf_link"
     },
     {
         "id": 9,
@@ -175,7 +175,7 @@
             "Rule 1: Teams must consist of 3 members.",
             "Rule 2: Judges' decisions are final."
         ],
-        "link": "https://www.example.com/treasure-hunt"
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSfqYS9ai0b1FUYeLwkO8pV9g1svgpYDrcinmUNEnTJV1ZmEKw/viewform?usp=sf_link"
     },
     {
         "id": 10,
@@ -194,7 +194,7 @@
             "Rule 1: Each participant must register individually.",
             "Rule 2: Judges' decisions are final."
         ],
-        "link": "https://www.example.com/it-manager"
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSdUCBDBa5FIvQMLD5YMqqQIGWu0eRGEvc2HCW4HMPJwo1iecA/viewform?usp=sf_link"
     },
     {
         "id": 11,
@@ -213,6 +213,6 @@
             "Rule 1: Each participant must register individually.",
             "Rule 2: Judges' decisions are final."
         ],
-        "link": "https://www.example.com/it-manager"
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSfLk5fXynGKV-INVSHl2L0jjCRjRUy9j9mWbemsrAk4Kg9RgA/viewform?usp=sf_link"
     }
 ]
