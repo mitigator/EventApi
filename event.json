@@ -16,11 +16,12 @@
             "Rule 1: Teams can have a maximum of 2 members.",
             "Rule 2: No mobile phones or outside help allowed.",
             "Rule 3: Judges' decisions are final and binding.",
-            "Rule 4: All participants must arrive 15 minutes prior to the event start time."
+            "Rule 4: All participants must arrive 15 minutes prior to the event start time.",
+            "Rule 4: If there's a tie in points, a tie-breaker round will be held in order to determine the winner."
         ],
         "prerequisites": [
-        "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 1: Ability to solve puzzles and think creatively.",
+        "Prerequisite 2: Participants must be able to engage in light physical activities"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSczx9M0gt8cfeYA1zrET5GujrhNLA_C_JITmqiH63dJnUtZGg/viewform?usp=sf_link"
     },
@@ -39,12 +40,13 @@
         "thirdPrize": "₹1000",
         "rules": [
             "Rule 1: It is an individual event.",
-            "Rule 2: Participants should bring their own cameras or smartphones.",
-            "Rule 3: Judges' decisions are final."
+            "Rule 2: Photos must be taken during the event using the surroundings available at the venue.",
+            "Rule 3: Editing is optional but should be minimal (basic color correction or cropping).",
+            "Rule 4: Judges' decisions are final.",
         ],
         "prerequisites": [
         "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 2: Participants should bring their own cameras or smartphones."
     ],
         "link": "https://www.example.com/photography"
     },
@@ -64,11 +66,12 @@
         "rules": [
             "Rule 1: Teams must consist of 2-4 members.",
             "Rule 2: Registration for the event is exclusively online",
-            "Rule 3: Judges' decisions are final."
+            "Rule 3: All submissions must be the original work of the participating teams. Plagiarism or the use of pre-built templates or code without citation will result in disqualification.",
+            "Rule 4: Judges' decisions are final"
         ],
         "prerequisites": [
-        "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 1: Participants must have access to a reliable internet connection, laptops or PCs with the necessary development environments, tools, and software relevant to their project.",
+        "Prerequisite 2: Teams should be prepared to use online communication tools."
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfVw29Yn0hlPIWAmMCu8BMI1_c1aP0I130hYSW-ajggVp71EQ/viewform?usp=sf_link"
     },
@@ -87,14 +90,13 @@
         "thirdPrize": "₹750",
         "rules": [
             "Rule 1: Teams can have a maximum of 2 members.",
-            "Rule 2: Each team must have a valid HackerRank account.",
-            "Rule 3:Teams must be proficient in at least one of the following programming languages: C/C++,Java,Python,JavaScript,Go Lang ",
-            "Rule 4: No outside help is allowed.",
-            "Rule 5: Judges' decisions are final."
+            "Rule 2: Teams must be proficient in at least one of the following programming languages: C/C++,Java,Python,JavaScript,Go Lang ",
+            "Rule 3: No outside help is allowed.",
+            "Rule 4: Judges' decisions are final."
         ],
         "prerequisites": [
-        "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 1: Each team must have a valid HackerRank account.",
+        "Prerequisite 2: Programming knowledge."
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfhq9sY9N8-IcaYemJH105k_mSjUJYcdE0wkkN1KsJZPfH_IQ/viewform?usp=sf_link"
     },
@@ -113,12 +115,12 @@
         "thirdPrize": "₹1000",
         "rules": [
             "Rule 1: Teams must consist of 3 members.",
-            "Rule 2: No outside help allowed.",
+            "Rule 2: Participants must build their own IoT project.",
             "Rule 3: Judges' decisions are final."
         ],
         "prerequisites": [
-        "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 1: Equipments, parts for the device.",
+        "Prerequisite 2: Teams must submit their ideas through a google form which will be provided."
     ],
         "link": "https://www.example.com/iot"
     },
@@ -126,7 +128,7 @@
         "id": 6,
         "eventType": "Capture the Flag",
         "venue": "MCA Lab Block 2",
-        "teamSize": "3",
+        "teamSize": "2-3",
         "rounds": "1",
         "contactPerson": "L Vinay Kumar Reddy ",
         "contactNumber": "8296755149 ",
@@ -137,12 +139,12 @@
         "thirdPrize": "₹1000",
         "rules": [
             "Rule 1: Teams must consist of 2 or 3 members.",
-            "Rule 2: No outside help allowed.",
+            "Rule 2: Sharing information or discussing with members of other teams is strictly prohibited.",
             "Rule 3: Judges' decisions are final."
         ],
         "prerequisites": [
-        "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 1: Basic knowledge of encryption and decryption techniques.",
+        "Prerequisite 2: Competence in using command-line tools."
     ],
         "link": "https://www.example.com/capture-the-flag"
     },
@@ -161,11 +163,12 @@
         "thirdPrize": "₹1000",
         "rules": [
             "Rule 1: Up to 2 members per team.",
-            "Rule 2: Judges' decisions are final."
+            "Rule 2: Judges' decisions are final.",
+            "Rule 3: Teams have to create their own design during the event. Pre-made designs are not accepted."
         ],
         "prerequisites": [
-        "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 1: Basic knowledge of working with UI tools(FIGMA).",
+        "Prerequisite 2: Technical knowledge to implement the design."
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScT4on9uw7tAJyPuUU4xeOSOiCMqdsuYJWJbzQIc2fDgxEXeg/viewform?usp=sf_link"
     },
@@ -188,8 +191,8 @@
             "Rule 3: Participants should bring their own gaming gears."
         ],
         "prerequisites": [
-        "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 1: A valid BGMI account.",
+        "Prerequisite 2: Mobile phones and chargers must be carried by the participants."
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScKwm8LEIUAbtwqA6xi--mUjJko_sWSca8TAXdCBlRniNB5Cw/viewform?usp=sf_link"
     },
@@ -208,12 +211,15 @@
         "thirdPrize": "₹1000",
         "rules": [
             "Rule 1: Up to 3-4 members per team and 2 teams per college",
-            "Rule 2:No mobile phones or outside help allowed.",
-            "Rule 2: Judges' decisions are final."
+            "Rule 2: No mobile phones or outside help allowed.",
+            "Rule 3: Judges' decisions are final.",
+            "Rule 4: Clues must not be shared with other teams.",
+            "Rule 5: Usage of any unfair means will result in immediate disqualiification."
         ],
         "prerequisites": [
         "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 2: Ability to solve puzzles and think creatively.",
+        "Prerequisite 3: Able to perform light physical activities."
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfqYS9ai0b1FUYeLwkO8pV9g1svgpYDrcinmUNEnTJV1ZmEKw/viewform?usp=sf_link"
     },
@@ -235,8 +241,8 @@
             "Rule 2: Judges' decisions are final."
         ],
         "prerequisites": [
-        "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 1: Communication Skills.",
+        "Prerequisite 2: Courage and Attitude."
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdUCBDBa5FIvQMLD5YMqqQIGWu0eRGEvc2HCW4HMPJwo1iecA/viewform?usp=sf_link"
     },
@@ -255,11 +261,12 @@
         "thirdPrize": "₹750",
         "rules": [
             "Rule 1: Participation is open to individuals or teams of 2 members.",
-            "Rule 2: Judges' decisions are final."
+            "Rule 2: Usage of a device/any other means that provide an unfair advantage will result in immediate disqualification of the team.",
+            "Rule 3: Judges' decisions are final."
         ],
         "prerequisites": [
-        "Prerequisite 1: Basic knowledge of Greek mythology.",
-        "Prerequisite 2: Ability to solve puzzles and think creatively."
+        "Prerequisite 1: Basic Computer Science Knowledge.",
+        "Prerequisite 2: General IT and Technology Awareness."
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfLk5fXynGKV-INVSHl2L0jjCRjRUy9j9mWbemsrAk4Kg9RgA/viewform?usp=sf_link"
     }
