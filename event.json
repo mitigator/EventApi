@@ -18,6 +18,10 @@
             "Rule 3: Judges' decisions are final and binding.",
             "Rule 4: All participants must arrive 15 minutes prior to the event start time."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSczx9M0gt8cfeYA1zrET5GujrhNLA_C_JITmqiH63dJnUtZGg/viewform?usp=sf_link"
     },
     {
@@ -38,6 +42,10 @@
             "Rule 2: Participants should bring their own cameras or smartphones.",
             "Rule 3: Judges' decisions are final."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://www.example.com/photography"
     },
     {
@@ -58,6 +66,10 @@
             "Rule 2: Registration for the event is exclusively online",
             "Rule 3: Judges' decisions are final."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfVw29Yn0hlPIWAmMCu8BMI1_c1aP0I130hYSW-ajggVp71EQ/viewform?usp=sf_link"
     },
     {
@@ -80,6 +92,10 @@
             "Rule 4: No outside help is allowed.",
             "Rule 5: Judges' decisions are final."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfhq9sY9N8-IcaYemJH105k_mSjUJYcdE0wkkN1KsJZPfH_IQ/viewform?usp=sf_link"
     },
     {
@@ -100,6 +116,10 @@
             "Rule 2: No outside help allowed.",
             "Rule 3: Judges' decisions are final."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://www.example.com/iot"
     },
     {
@@ -120,6 +140,10 @@
             "Rule 2: No outside help allowed.",
             "Rule 3: Judges' decisions are final."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://www.example.com/capture-the-flag"
     },
     {
@@ -139,6 +163,10 @@
             "Rule 1: Up to 2 members per team.",
             "Rule 2: Judges' decisions are final."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScT4on9uw7tAJyPuUU4xeOSOiCMqdsuYJWJbzQIc2fDgxEXeg/viewform?usp=sf_link"
     },
     {
@@ -159,6 +187,10 @@
             "Rule 2: Judges' decisions are final.",
             "Rule 3: Participants should bring their own gaming gears."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScKwm8LEIUAbtwqA6xi--mUjJko_sWSca8TAXdCBlRniNB5Cw/viewform?usp=sf_link"
     },
     {
@@ -179,6 +211,10 @@
             "Rule 2:No mobile phones or outside help allowed.",
             "Rule 2: Judges' decisions are final."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfqYS9ai0b1FUYeLwkO8pV9g1svgpYDrcinmUNEnTJV1ZmEKw/viewform?usp=sf_link"
     },
     {
@@ -198,6 +234,10 @@
             "Rule 1: Each participant must register individually.",
             "Rule 2: Judges' decisions are final."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdUCBDBa5FIvQMLD5YMqqQIGWu0eRGEvc2HCW4HMPJwo1iecA/viewform?usp=sf_link"
     },
     {
@@ -217,6 +257,10 @@
             "Rule 1: Participation is open to individuals or teams of 2 members.",
             "Rule 2: Judges' decisions are final."
         ],
+        "prerequisites": [
+        "Prerequisite 1: Basic knowledge of Greek mythology.",
+        "Prerequisite 2: Ability to solve puzzles and think creatively."
+    ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfLk5fXynGKV-INVSHl2L0jjCRjRUy9j9mWbemsrAk4Kg9RgA/viewform?usp=sf_link"
     }
 ]
