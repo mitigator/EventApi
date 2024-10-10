@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "eventType": "Coding Challenge",
+    "teamSize": "Solo",
+    "venue": "Hall A",
+    "rounds": "3",
+    "contactPerson": "John Doe",
+    "contactNumber": "+1234567890",
+    "title": "Code Sprint",
+    "description": "An intense coding challenge that tests your problem-solving skills and speed.",
+    "firstPrize": "$500",
+    "rules": [
+      "No external libraries allowed.",
+      "Time limit: 2 hours.",
+      "Code must be submitted through the platform."
+    ],
+    "link": "https://example.com/register"
+  },
+  {
+    "id": 2,
+    "eventType": "Hackathon",
+    "teamSize": "4-5 Members",
+    "venue": "Hall B",
+    "rounds": "2",
+    "contactPerson": "Jane Smith",
+    "contactNumber": "+9876543210",
+    "title": "Hackathon Blitz",
+    "description": "Build innovative solutions to real-world problems in a limited time.",
+    "firstPrize": "$1000",
+    "rules": [
+      "Teams of 4-5 members.",
+      "Must use open-source technologies.",
+      "Code should be uploaded to GitHub."
+    ],
+    "link": "https://example.com/hackathon-register"
+  },
+  {
+    "id": 3,
+    "eventType": "Quiz Competition",
+    "teamSize": "2 Members",
+    "venue": "Room 101",
+    "rounds": "4",
+    "contactPerson": "Alex Johnson",
+    "contactNumber": "+1122334455",
+    "title": "Tech Quiz",
+    "description": "Test your knowledge on various topics in tech with a challenging quiz.",
+    "firstPrize": "$300",
+    "rules": [
+      "Each team consists of 2 members.",
+      "No use of electronic devices during the quiz.",
+      "Multiple-choice and short-answer questions."
+    ],
+    "link": "https://example.com/quiz-register"
+  },
+  {
+    "id": 4,
+    "eventType": "Gaming Tournament",
+    "teamSize": "5 Members",
+    "venue": "Hall C",
+    "rounds": "5",
+    "contactPerson": "Chris Martin",
+    "contactNumber": "+2233445566",
+    "title": "Game Masters",
+    "description": "Compete in a series of popular online games to prove your gaming skills.",
+    "firstPrize": "$700",
+    "rules": [
+      "Teams of 5 members.",
+      "Games will be announced on the day of the event.",
+      "No cheating or exploiting game bugs."
+    ],
+    "link": "https://example.com/gaming-register"
+  },
+  {
+    "id": 5,
+    "eventType": "Robotics Challenge",
+    "teamSize": "3-4 Members",
+    "venue": "Hall D",
+    "rounds": "3",
+    "contactPerson": "Emily Davis",
+    "contactNumber": "+3344556677",
+    "title": "Robo Race",
+    "description": "Build and race your robots to complete various tasks in the shortest time possible.",
+    "firstPrize": "$800",
+    "rules": [
+      "Robots must be built from scratch.",
+      "Each task has a time limit.",
+      "Points are deducted for each penalty."
+    ],
+    "link": "https://example.com/robotics-register"
+  },
+  {
+    "id": 6,
+    "eventType": "Capture the Flag (CTF)",
+    "teamSize": "4 Members",
+    "venue": "Hall E",
+    "rounds": "4",
+    "contactPerson": "Sara Lee",
+    "contactNumber": "+4455667788",
+    "title": "Cyber Siege",
+    "description": "Test your cybersecurity skills in a CTF competition with challenging scenarios.",
+    "firstPrize": "$1500",
+    "rules": [
+      "Teams of 4 members.",
+      "No external help or tools allowed.",
+      "Time limit: 4 hours per round."
+    ],
+    "link": "https://example.com/ctf-register"
+  },
+  {
+    "id": 7,
+    "eventType": "AI/ML Workshop",
+    "teamSize": "2-3 Members",
+    "venue": "Room 202",
+    "rounds": "1",
+    "contactPerson": "Oliver Brown",
+    "contactNumber": "+5566778899",
+    "title": "AI Exploration",
+    "description": "A workshop that delves into AI/ML models and their real-world applications.",
+    "firstPrize": "$400",
+    "rules": [
+      "No prior knowledge required.",
+      "Bring your laptop with Python installed.",
+      "Participation certificate for all."
+    ],
+    "link": "https://example.com/ai-workshop"
+  },
+  {
+    "id": 8,
+    "eventType": "Drone Racing",
+    "teamSize": "Solo",
+    "venue": "Open Ground",
+    "rounds": "5",
+    "contactPerson": "Mia Williams",
+    "contactNumber": "+6677889900",
+    "title": "Sky High",
+    "description": "Race your custom drones through an obstacle course to reach the finish line.",
+    "firstPrize": "$1000",
+    "rules": [
+      "Drones must be registered with event organizers.",
+      "Each round has a time limit.",
+      "Points deducted for touching obstacles."
+    ],
+    "link": "https://example.com/drone-racing"
+  },
+  {
+    "id": 9,
+    "eventType": "Design Contest",
+    "teamSize": "Solo",
+    "venue": "Room 303",
+    "rounds": "1",
+    "contactPerson": "Sophia Carter",
+    "contactNumber": "+7788990011",
+    "title": "Design Sprint",
+    "description": "Showcase your design skills by creating a unique UI/UX solution in a limited time.",
+    "firstPrize": "$600",
+    "rules": [
+      "Design must be original.",
+      "Time limit: 3 hours.",
+      "Submissions must include wireframes and mockups."
+    ],
+    "link": "https://example.com/design-contest"
+  },
+  {
+    "id": 10,
+    "eventType": "Tech Talk",
+    "teamSize": "Solo",
+    "venue": "Main Auditorium",
+    "rounds": "1",
+    "contactPerson": "Ethan Harris",
+    "contactNumber": "+8899001122",
+    "title": "The Future of Blockchain",
+    "description": "An engaging tech talk discussing the potential and challenges of blockchain technology.",
+    "firstPrize": "N/A",
+    "rules": [
+      "No prior registration required.",
+      "Open to all participants.",
+      "Q&A session at the end."
+    ],
+    "link": "https://example.com/tech-talk"
+  },
+  {
+    "id": 11,
+    "eventType": "Photography Contest",
+    "teamSize": "Solo",
+    "venue": "Online Submission",
+    "rounds": "1",
+    "contactPerson": "Lily Turner",
+    "contactNumber": "+9900112233",
+    "title": "Lens Masters",
+    "description": "Capture the essence of tech innovation through your camera lens in this contest.",
+    "firstPrize": "$500",
+    "rules": [
+      "Photos must be original and unedited.",
+      "Submit high-resolution images.",
+      "Each participant can submit up to 3 photos."
+    ],
+    "link": "https://example.com/photo-contest"
+  }
+]
