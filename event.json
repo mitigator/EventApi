@@ -52,6 +52,7 @@
     },
     {
         "id": 3,
+        "eventMode":"Online",
         "eventType": "Hackathon",
         "venue": "Tech Lab",
         "teamSize": "4",
