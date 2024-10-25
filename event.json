@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-	"percollegecap":"No Limit",
+	"percollegecap":"Any number of teams can participate from a single college.",
         "eventType": "Surprise Event",
         "venue": "Sky View, Central Block",
         "teamSize": "2",
@@ -31,7 +31,7 @@
     },
     {
         "id": 2,
-	"percollegecap":"No Limit",
+	"percollegecap":"Any number of teams can participate from a single college.",
         "eventType": "Photography",
         "venue": "Venue: 815, Central Block",
         "teamSize": "1",
@@ -60,7 +60,7 @@
     },
     {
         "id": 3,
-	"percollegecap":"No Limit",
+	"percollegecap":"Any number of teams can participate from a single college.",
         "eventMode":"Online",
         "eventType": "Hackathon",
         "venue": "Online",
@@ -90,7 +90,7 @@
     },
     {
         "id": 4,
-	"percollegecap":"3 Teams",
+	"percollegecap":"Only 3 Teams can participate from a single college.",
         "eventType": "Coding/Debugging",
         "venue": "811 Central Block",
         "teamSize": "2",
@@ -119,8 +119,7 @@
     },
     {
         "id": 5,
-	"percollegecap":"No Limit",
-	"percollegecap":"No Limit",
+	"percollegecap":"Any number of teams can participate from a single college.",
         "eventType": "IoT",
         "venue": "Innovation Center",
         "teamSize": "3",
@@ -148,7 +147,7 @@
     },
     {
         "id": 6,
-	"percollegecap":"No Limit",
+	"percollegecap":"Any number of teams can participate from a single college.",
         "eventType": "Capture the Flag",
         "venue": "MCA Lab Block 2",
         "teamSize": "2",
@@ -176,7 +175,7 @@
     },
     {
         "id": 7,
-	"percollegecap":"2 Teams",
+	"percollegecap":"Only 2 Teams can participate from a single college.",
         "eventType": "UI/UX",
         "venue": "BCA lab, Block 2",
         "teamSize": "2",
@@ -204,7 +203,7 @@
     },
     {
         "id": 8,
-	"percollegecap":"3 Teams",
+	"percollegecap":"Only 3 Teams can participate from a single college.",
         "eventType": "Gaming",
         "venue": "Bsc Lab, Block 2",
         "teamSize": "4",
@@ -232,7 +231,7 @@
     },
     {
         "id": 9,
-	"percollegecap":"2 Teams",
+	"percollegecap":"Only 2 Teams can participate from a single college.",
         "eventType": "Treasure Hunt",
         "venue": "Sky View",
         "teamSize": "4",
@@ -263,7 +262,7 @@
     },
     {
         "id": 10,
-	"percollegecap":"3 Teams",
+	"percollegecap":"Only 3 Teams can participate from a single college.",
         "eventType": "IT Manager",
         "venue": "Seminar Hall Block 2",
         "teamSize": "1",
@@ -290,7 +289,7 @@
     },
     {
         "id": 11,
-	"percollegecap":"No Limit",
+	"percollegecap":"Any number of teams can participate from a single college.",
         "eventType": "IT Quiz",
         "venue": "105 Meeting Hall",
         "teamSize": "2",
