@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-	"percollegecap":"Any number of teams can participate from a single college.",
+	"percollegecap":"Any number of teams can participate from a single college",
         "eventType": "Surprise Event",
         "venue": "Sky View, Central Block",
         "teamSize": "2",
@@ -17,21 +17,21 @@
 		"regclose": "1 Hour before event.",        
         "thirdPrize": "₹1000",
         "rules": [
-            "Teams can have a maximum of 2 members.",
-            "No mobile phones or outside help allowed.",
-            "Judges' decisions are final and binding.",
-            "All participants must arrive 15 minutes prior to the event start time.",
-            "If there's a tie in points, a tie-breaker round will be held in order to determine the winner."
+            "Teams can have a maximum of 2 members",
+            "No mobile phones or outside help allowed",
+            "Judges' decisions are final and binding",
+            "All participants must arrive 15 minutes prior to the event start time",
+            "If there's a tie in points, a tie-breaker round will be held in order to determine the winner"
         ],
         "prerequisites": [
-        "Ability to solve puzzles and think creatively.",
+        "Ability to solve puzzles and think creatively",
         "Participants must be able to engage in light physical activities"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSczx9M0gt8cfeYA1zrET5GujrhNLA_C_JITmqiH63dJnUtZGg/viewform?usp=sf_link"
     },
     {
         "id": 2,
-	"percollegecap":"Any number of teams can participate from a single college.",
+	"percollegecap":"Any number of teams can participate from a single college",
         "eventType": "Photography",
         "venue": "Venue: 815, Central Block",
         "teamSize": "1",
@@ -41,26 +41,26 @@
         "title": "Apollo’s Luminous Lens",
         "datetime": "14th November 10:30 AM" ,
 		"regtype": "Online",
-		"regclose": "Midnight, November 13th.",
+		"regclose": "Midnight, November 13th",
         "description": "APOLLO’S LUMINOUS LENS is a photography competition that emphasizes creativity by challenging participants to align their work with a specific theme chosen by the judges. Participants will capture photographs based on this theme, showcasing their unique perspectives. ",
         "firstPrize": "₹3000",
         "secondPrize": "₹2000",
         "thirdPrize": "₹1000",
         "rules": [
-            "It is an individual event.",
-            "Photos must be taken during the event using the surroundings available at the venue.",
-            "Editing is optional but should be minimal (basic color correction or cropping).",
-            "Judges' decisions are final."
+            "It is an individual event",
+            "Photos must be taken during the event using the surroundings available at the venue",
+            "Editing is optional but should be minimal (basic color correction or cropping)",
+            "Judges' decisions are final"
         ],
         "prerequisites": [
-        "Basic knowledge of Greek mythology.",
-        "Participants should bring their own cameras or smartphones."
+        "Basic knowledge of Greek mythology",
+        "Participants should bring their own cameras or smartphones"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdBK01gLYHBccEErHtKVThxb4NNMgym0sfUWG7wt2Uyc5iU_w/viewform?usp=sf_link"
     },
     {
         "id": 3,
-	"percollegecap":"Any number of teams can participate from a single college.",
+	"percollegecap":"Any number of teams can participate from a single college",
         "eventMode":"Online",
         "eventType": "Hackathon",
         "venue": "Online",
@@ -70,27 +70,27 @@
         "contactNumber": " 7025511967",
         "datetime": "9th November 6:00 PM" ,
 		"regtype": "Online",
-		"regclose": "Midnight, 7th November.",
+		"regclose": "Midnight, 7th November",
         "title": "Ares Techwar",
         "description": "Welcome to Ares TechWar: The Mythological Hackathon! Inspired by the epic quests of ancient Greece, this hackathon merges mythology with futuristic tech, challenging you to develop innovative solutions. Compete alongside developers, creators, and visionaries as you tackle real-world problems or design groundbreaking projects across any tech domain, all within a myth-inspired atmosphere. Unleash your creativity, collaborate, and showcase your skills for a chance to win exciting prizes. While the gods may inspire, it's your innovation that will determine the victor!",
         "firstPrize": "₹18000",
         "secondPrize": "₹3000",
         "thirdPrize": "₹1500",
         "rules": [
-            "Teams must consist of 2-4 members.",
+            "Teams must consist of 2-4 members",
             "Registration for the event is exclusively online",
             "All submissions must be the original work of the participating teams. Plagiarism or the use of pre-built templates or code without citation will result in disqualification.",
             "Judges' decisions are final"
         ],
         "prerequisites": [
         "Participants must have access to a reliable internet connection, laptops or PCs with the necessary development environments, tools, and software relevant to their project.",
-        "Teams should be prepared to use online communication tools."
+        "Teams should be prepared to use online communication tools"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfVw29Yn0hlPIWAmMCu8BMI1_c1aP0I130hYSW-ajggVp71EQ/viewform?usp=sf_link"
     },
     {
         "id": 4,
-	"percollegecap":"Only 3 Teams can participate from a single college.",
+	"percollegecap":"Only 3 Teams can participate from a single college",
         "eventType": "Coding/Debugging",
         "venue": "811 Central Block",
         "teamSize": "2",
@@ -106,20 +106,20 @@
         "secondPrize": "₹1500",
         "thirdPrize": "₹750",
         "rules": [
-            "Teams can have a maximum of 2 members.",
+            "Teams can have a maximum of 2 members",
             "Teams must be proficient in at least one of the following programming languages: C/C++,Java,Python,JavaScript,Go Lang ",
-            "No outside help is allowed.",
-            "Judges' decisions are final."
+            "No outside help is allowed",
+            "Judges' decisions are final"
         ],
         "prerequisites": [
-        "Each team must have a valid HackerRank account.",
-        "Programming knowledge."
+        "Each team must have a valid HackerRank account",
+        "Programming knowledge"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfhq9sY9N8-IcaYemJH105k_mSjUJYcdE0wkkN1KsJZPfH_IQ/viewform?usp=sf_link"
     },
     {
         "id": 5,
-	"percollegecap":"Any number of teams can participate from a single college.",
+	"percollegecap":"Any number of teams can participate from a single college",
         "eventType": "IoT",
         "venue": "Innovation Center",
         "teamSize": "3",
@@ -135,19 +135,19 @@
         "secondPrize": "₹3000",
         "thirdPrize": "₹1000",
         "rules": [
-            "Teams must consist of 3 members.",
-            "Participants must build their own IoT project.",
-            "Judges' decisions are final."
+            "Teams must consist of 3 member",
+            "Participants must build their own IoT project",
+            "Judges' decisions are final"
         ],
         "prerequisites": [
-        "Equipments, parts for the device.",
-        "Teams must submit their ideas through a google form which will be provided."
+        "Equipments, parts for the device",
+        "Teams must submit their ideas through a google form which will be provided"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScn5RpPZVsobMnbeBNRhkp64jSgc9tfxvsmS2ypl91zpw09lA/viewform?usp=sf_link"
     },
     {
         "id": 6,
-	"percollegecap":"Any number of teams can participate from a single college.",
+	"percollegecap":"Any number of teams can participate from a single college",
         "eventType": "Capture the Flag",
         "venue": "MCA Lab Block 2",
         "teamSize": "2",
@@ -163,19 +163,19 @@
         "secondPrize": "₹2000",
         "thirdPrize": "₹1000",
         "rules": [
-            "Teams must be made up of 2 members.",
-            "Sharing information or discussing with members of other teams is strictly prohibited.",
-            "Judges' decisions are final."
+            "Teams must be made up of 2 members",
+            "Sharing information or discussing with members of other teams is strictly prohibited",
+            "Judges' decisions are final"
         ],
         "prerequisites": [
-        "Basic knowledge of encryption and decryption techniques.",
-        "Competence in using command-line tools."
+        "Basic knowledge of encryption and decryption techniques",
+        "Competence in using command-line tools"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdGdCZQD1kiKGyHOjw5XCx3LBW0iOYxtYIakr3Vbp9P28-KDA/viewform?usp=sf_link"
     },
     {
         "id": 7,
-	"percollegecap":"Only 2 Teams can participate from a single college.",
+	"percollegecap":"Only 2 Teams can participate from a single college",
         "eventType": "UI/UX",
         "venue": "BCA lab, Block 2",
         "teamSize": "2",
@@ -191,19 +191,19 @@
         "secondPrize": "₹2500",
         "thirdPrize": "₹1000",
         "rules": [
-            "Up to 2 members per team.",
-            "Judges' decisions are final.",
-            "Teams have to create their own design during the event. Pre-made designs are not accepted."
+            "Up to 2 members per team",
+            "Judges' decisions are final",
+            "Teams have to create their own design during the event. Pre-made designs are not accepted"
         ],
         "prerequisites": [
-        "Basic knowledge of working with UI tools.",
-        "Technical knowledge to implement the design."
+        "Basic knowledge of working with UI tools",
+        "Technical knowledge to implement the design"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScT4on9uw7tAJyPuUU4xeOSOiCMqdsuYJWJbzQIc2fDgxEXeg/viewform?usp=sf_link"
     },
     {
         "id": 8,
-	"percollegecap":"Only 3 Teams can participate from a single college.",
+	"percollegecap":"Only 3 Teams can participate from a single college",
         "eventType": "Gaming",
         "venue": "Bsc Lab, Block 2",
         "teamSize": "4",
@@ -213,25 +213,25 @@
         "title": "Dionysus' Battleground",
         "datetime": "15th November 1:00 PM" ,
 		"regtype": "Online and On Spot",
-		"regclose": "1 Hour before event.",
+		"regclose": "1 Hour before event",
         "description": "Welcome to Dionysus' Battleground, a thrilling gaming event where ancient myth meets intense competition in BGMI! Enter the battlefield with your squad and master tactics, teamwork, and precision to claim victory. Navigate through fierce firefights, outsmart rivals, and adapt to the ever-changing combat zones as the spirit of Dionysus drives you forward. Prove your might, rise among legends, and let your skills shine in this epic virtual challenge. Gear up, squad up, and step into the arena—your time to dominate has arrived!",
         "firstPrize": "₹10000",
         "secondPrize": "₹3500",
         "thirdPrize": "₹1500",
         "rules": [
-            "Teams must consist of 4 members.",
-            "Judges' decisions are final.",
-            "Participants should bring their own gaming gears."
+            "Teams must consist of 4 members",
+            "Judges' decisions are final",
+            "Participants should bring their own gaming gears"
         ],
         "prerequisites": [
-        "A valid BGMI account.",
-        "Mobile phones and chargers must be carried by the participants."
+        "A valid BGMI account",
+        "Mobile phones and chargers must be carried by the participants"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScKwm8LEIUAbtwqA6xi--mUjJko_sWSca8TAXdCBlRniNB5Cw/viewform?usp=sf_link"
     },
     {
         "id": 9,
-	"percollegecap":"Only 2 Teams can participate from a single college.",
+	"percollegecap":"Only 2 Teams can participate from a single college",
         "eventType": "Treasure Hunt",
         "venue": "Sky View",
         "teamSize": "4",
@@ -248,21 +248,21 @@
         "thirdPrize": "₹1000",
         "rules": [
             "Up to 3-4 members per team and 2 teams per college",
-            "No mobile phones or outside help allowed.",
-            "Judges' decisions are final.",
-            "Clues must not be shared with other teams.",
-            "Usage of any unfair means will result in immediate disqualiification."
+            "No mobile phones or outside help allowed",
+            "Judges' decisions are final",
+            "Clues must not be shared with other teams",
+            "Usage of any unfair means will result in immediate disqualiification"
         ],
         "prerequisites": [
-        "Basic knowledge of Greek mythology.",
-        "Ability to solve puzzles and think creatively.",
-        "Able to perform light physical activities."
+        "Basic knowledge of Greek mythology",
+        "Ability to solve puzzles and think creatively",
+        "Able to perform light physical activities"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfqYS9ai0b1FUYeLwkO8pV9g1svgpYDrcinmUNEnTJV1ZmEKw/viewform?usp=sf_link"
     },
     {
         "id": 10,
-	"percollegecap":"Only 3 Teams can participate from a single college.",
+	"percollegecap":"Only 3 Teams can participate from a single college",
         "eventType": "IT Manager",
         "venue": "Seminar Hall Block 2",
         "teamSize": "1",
@@ -278,18 +278,18 @@
         "secondPrize": "₹1500",
         "thirdPrize": "₹750",
         "rules": [
-            "Each participant must register individually.",
-            "Judges' decisions are final."
+            "Each participant must register individually",
+            "Judges' decisions are final"
         ],
         "prerequisites": [
-        "Communication Skills.",
-        "Courage and Attitude."
+        "Communication Skills",
+        "Courage and Attitude"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdUCBDBa5FIvQMLD5YMqqQIGWu0eRGEvc2HCW4HMPJwo1iecA/viewform?usp=sf_link"
     },
     {
         "id": 11,
-	"percollegecap":"Any number of teams can participate from a single college.",
+	"percollegecap":"Any number of teams can participate from a single college",
         "eventType": "IT Quiz",
         "venue": "105 Meeting Hall",
         "teamSize": "2",
@@ -305,13 +305,13 @@
         "secondPrize": "₹1500",
         "thirdPrize": "₹750",
         "rules": [
-            "Participation is open to individuals or teams of 2 members.",
-            "Usage of a device/any other means that provide an unfair advantage will result in immediate disqualification of the team.",
-            "Judges' decisions are final."
+            "Participation is open to individuals or teams of 2 members",
+            "Usage of a device/any other means that provide an unfair advantage will result in immediate disqualification of the team",
+            "Judges' decisions are final"
         ],
         "prerequisites": [
-        "Basic Computer Science Knowledge.",
-        "General IT and Technology Awareness."
+        "Basic Computer Science Knowledge",
+        "General IT and Technology Awareness"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfLk5fXynGKV-INVSHl2L0jjCRjRUy9j9mWbemsrAk4Kg9RgA/viewform?usp=sf_link"
     }
