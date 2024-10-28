@@ -127,9 +127,9 @@
         "contactPerson": "SANTHOSH KUMAR",
         "contactNumber": "6379314514",
         "title": "Hephaestus' Forge",
-        "datetime": "Online Submission - 5th November | Offline Event - 14th November 12:30 PM" ,
+        "datetime": "Online idea Submission - 6th November | Offline Event (2nd round) - 14th November 12:30 PM" ,
 		"regtype": "Online",
-		"regclose": "Midnight, 6th November",
+		"regclose": "Midnight, 5th November",
         "description": "Prepare to explore the exciting Internet of Things (IoT) world with Hephaestus' Forge. This event challenges participants to harness the power of IoT to innovate solutions that benefit society. Teams must demonstrate their knowledge and creativity through a structured competition emphasizing innovation, originality, and societal benefits.",
         "firstPrize": "₹13000",
         "secondPrize": "₹3000",
@@ -137,10 +137,13 @@
         "rules": [
             "Teams must consist of 3 member",
             "Participants must build their own IoT project",
-            "Judges' decisions are final"
+            "Submit your ideas to santhoshkumar150822@gmail.com",
+	    "The participates who are selected in first round  (will be intimated through mail) has to come up with their physical model based on their idea submission.",
+	    "Judges' decisions are final"
+		
         ],
         "prerequisites": [
-        "Equipments, parts for the device",
+        "the participants should build and bring their own iot project that benifits the society",
         "Teams must submit their ideas through a google form which will be provided"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScn5RpPZVsobMnbeBNRhkp64jSgc9tfxvsmS2ypl91zpw09lA/viewform?usp=sf_link"
