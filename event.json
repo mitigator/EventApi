@@ -62,7 +62,7 @@
     },
     {
         "id": 3,
-	"eligibility":"PG Computer Science students and Btech 3rd and 4th year students.",
+	"eligibility":"PG Computer Science students and Btech 4th year students.",
 	"percollegecap":"Any number of teams can participate from a single college",
         "eventMode":"Online",
         "eventType": "Hackathon",
@@ -124,7 +124,7 @@
     {
         "id": 5,
 	"percollegecap":"Any number of teams can participate from a single college",
-	"eligibility":"PG Computer Science students and Btech 3rd and 4th year students.",   
+	"eligibility":"PG Computer Science students and Btech 4th year students.",   
         "eventType": "IoT",
         "venue": "Innovation Center",
         "teamSize": "3",
@@ -132,7 +132,7 @@
         "contactPerson": "SANTHOSH KUMAR",
         "contactNumber": "6379314514",
         "title": "Hephaestus' Forge",
-        "datetime": "Online idea Submission - 6th November | Offline Event (2nd round) - 14th November 12:30 PM" ,
+        "datetime": "Online idea Submission - 9th November | Offline Event (2nd round) - 14th November 12:30 PM" ,
 		"regtype": "Online",
 		"regclose": "Midnight, 5th November",
         "description": "Prepare to explore the exciting Internet of Things (IoT) world with Hephaestus' Forge. This event challenges participants to harness the power of IoT to innovate solutions that benefit society. Teams must demonstrate their knowledge and creativity through a structured competition emphasizing innovation, originality, and societal benefits.",
