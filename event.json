@@ -2,7 +2,7 @@
     {
         "id": 1,
 	"percollegecap":"Any number of teams can participate from a single college",
-	"eligibility":"MCA Students only",
+	"eligibility":"PG Computer Science Students only",
         "eventType": "Surprise Event",
         "venue": "Sky View, Central Block",
         "teamSize": "2",
@@ -33,7 +33,7 @@
     {
         "id": 2,
 	"percollegecap":"Any number of teams can participate from a single college",
-        "eligibility":"MCA Students only",
+        "eligibility":"PG Computer Science Students only",
 	"eventType": "Photography",
         "venue": "815, Central Block",
         "teamSize": "1",
@@ -93,7 +93,7 @@
     },
     {
         "id": 4,
-	    "eligibility":"MCA Students only",
+	    "eligibility":"PG Computer Science Students only",
 	"percollegecap":"Only 3 Teams can participate from a single college",
         "eventType": "Coding/Debugging",
         "venue": "811 Central Block",
@@ -155,7 +155,7 @@
     },
     {
         "id": 6,
-	    "eligibility":"MCA Students only",
+	    "eligibility":"PG Computer Science Students only",
 	"percollegecap":"Any number of teams can participate from a single college",
         "eventType": "Capture the Flag",
         "venue": "MCA Lab Block 2",
@@ -184,7 +184,7 @@
     },
     {
         "id": 7,
-	    "eligibility":"MCA Students only",
+	    "eligibility":"PG Computer Science Students only",
 	"percollegecap":"Only 2 Teams can participate from a single college",
         "eventType": "UI/UX",
         "venue": "BCA lab, Block 2",
@@ -213,7 +213,7 @@
     },
     {
         "id": 8,
-	    "eligibility":"MCA Students only",
+	    "eligibility":"PG Computer Science Students only",
 	"percollegecap":"Only 3 Teams can participate from a single college",
         "eventType": "Gaming",
         "venue": "Bsc Lab, Block 2",
@@ -242,7 +242,7 @@
     },
     {
         "id": 9,
-	    "eligibility":"MCA Students only",
+	    "eligibility":"PG Computer Science Students only",
 	"percollegecap":"Only 2 Teams can participate from a single college",
         "eventType": "Treasure Hunt",
         "venue": "Sky View",
@@ -274,7 +274,7 @@
     },
     {
         "id": 10,
-	    "eligibility":"MCA Students only",
+	    "eligibility":"PG Computer Science Students only",
 	"percollegecap":"Only 3 Teams can participate from a single college",
         "eventType": "IT Manager",
         "venue": "Seminar Hall Block 2",
@@ -302,7 +302,7 @@
     },
     {
         "id": 11,
-	    "eligibility":"MCA Students only",
+	    "eligibility":"PG Computer Science Students only",
 	"percollegecap":"Any number of teams can participate from a single college",
         "eventType": "IT Quiz",
         "venue": "105 Meeting Hall",
