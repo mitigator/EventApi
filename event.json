@@ -124,15 +124,15 @@
     {
         "id": 5,
 	"percollegecap":"Any number of teams can participate from a single college",
-	"eligibility":"PG Computer Science students and Btech 4th year students.",   
+	"eligibility":"PG Computer Science students and Btech students.",   
         "eventType": "IoT",
         "venue": "Innovation Center",
         "teamSize": "3",
-        "rounds": "2",
+        "rounds": "1",
         "contactPerson": "SANTHOSH KUMAR",
         "contactNumber": "6379314514",
         "title": "Hephaestus' Forge",
-        "datetime": "Online idea Submission - 10th November | Offline Event (2nd round) - 14th November 12:30 PM" ,
+        "datetime": "Offline Event - 14th November 12:30 PM" ,
 		"regtype": "Online",
 		"regclose": "2 Hours before event",
         "description": "Prepare to explore the exciting Internet of Things (IoT) world with Hephaestus' Forge. This event challenges participants to harness the power of IoT to innovate solutions that benefit society. Teams must demonstrate their knowledge and creativity through a structured competition emphasizing innovation, originality, and societal benefits.",
@@ -143,19 +143,18 @@
             "Teams must consist of 3 member",
             "Participants must build their own IoT project",
             "Submit your ideas to santhoshkumar150822@gmail.com",
-	    "The participates who are selected in first round  (will be intimated through mail) has to come up with their physical model based on their idea submission.",
+	    "The participants must come with their physical model based on their ideas.",
 	    "Judges' decisions are final"
 		
         ],
         "prerequisites": [
         "the participants should build and bring their own iot project that benifits the society",
-        "Teams must submit their ideas through a google form which will be provided"
     ],
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScn5RpPZVsobMnbeBNRhkp64jSgc9tfxvsmS2ypl91zpw09lA/viewform?usp=sf_link"
     },
     {
         "id": 6,
-	    "eligibility":"PG Computer Science Students only",
+	    "eligibility":"PG Computer Science Students only ",
 	"percollegecap":"Any number of teams can participate from a single college",
         "eventType": "Capture the Flag",
         "venue": "MCA Lab Block 2",
